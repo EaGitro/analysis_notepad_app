@@ -2,7 +2,6 @@
 """
 Created on Sun Jul 31 02:40:05 2022
 
-@author: k0eov
 """
 
 # this file might be replaced by GUI app with wxpython.
