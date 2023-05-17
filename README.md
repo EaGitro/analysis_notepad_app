@@ -20,4 +20,9 @@
     * 具体的には同一単語(原型)の個数で比較する
 
 
+# Author 
 
+ EaGitro (twitter: [@EaGitro](https://twitter.com/EaGitro), GitHub: [EaGitro](https://github.com/EaGitro))
+
+
+ © EaGitro 2022 All Rights Reserved.
