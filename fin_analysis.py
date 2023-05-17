@@ -2,7 +2,6 @@
 """
 Created on Sun Jul 31 02:50:24 2022
 
-@author: k0eov
 """
 
 # this file is for analyzing.
